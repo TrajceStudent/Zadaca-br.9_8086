@@ -114,4 +114,8 @@ KRAJ: NOP
 PRIKAZ ENDP
 CSEG ENDS
  END START 
+
+
+
+  
  ![Screenshot (1)](  https://github.com/TrajceStudent/zadaca-8086/blob/main/Diagram%208086%201.png  )
